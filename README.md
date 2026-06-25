@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unsupervised CNN–LSTM Autoencoder for Gait Anomaly Detection in Parkinson's Disease Using Video Analysis
 
 ## Abstract
@@ -130,3 +131,7 @@ Upload a gait video through the interface to view the anomaly score, frame-wise 
 ## License
 
 This project is intended for academic and research purposes.
+=======
+# cnn-lstm-gait-autoencoder
+Unsupervised CNN-LSTM autoencoder for detecting gait anomalies in Parkinson's disease using video analysis, with a Streamlit dashboard for anomaly scores, heatmaps, and temporal anomaly curves.
+>>>>>>> b2d0c66eb6731cccc2808b90d8ca05a7ab22f9a9
