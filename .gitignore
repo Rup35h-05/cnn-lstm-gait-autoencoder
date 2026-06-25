@@ -1,0 +1,69 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Model weights / checkpoints
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.onnx
+checkpoints/
+saved_models/
+models/*.pkl
+
+# Datasets / video files (usually too large for git)
+data/
+datasets/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Generated outputs
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+!docs/**/*.png
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter / misc
+*.npy
+*.npz
