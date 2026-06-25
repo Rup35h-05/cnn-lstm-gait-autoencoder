@@ -1,4 +1,3 @@
-HEAD
 # Unsupervised CNN–LSTM Autoencoder for Gait Anomaly Detection in Parkinson's Disease Using Video Analysis
 
 ## Abstract
